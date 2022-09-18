@@ -31,7 +31,10 @@ To find the dataset we used, visit the [Open Flights](https://openflights.org/da
 To download this program, use this command in your terminal:
 
 ````
-git clone https://github-dev.cs.illinois.edu/cs225-sp21/minwooc2-zhenyuw5-dl14-dka3
+git clone https://github-dev.cs.illinois.edu/cs225-sp21/minwooc2-zhenyuw5-dl14-dka3 (not working anymore)
+                                            |
+                                            V
+https://github.com/ZhenyuWang-uiuc/Projects/tree/main/Path%20finder%20-%20CS%20225%20final%20Project (try this)
 ````
 
 Then, open the newly created folder named "minwooc2-zhenyuw5-dl14-dka3" and then open the folder named "Graph".
