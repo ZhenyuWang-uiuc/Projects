@@ -4,7 +4,7 @@ This project will allow you to put several stickers into your PNG background fil
 
 ### Example output
 
-![alt text](./output1.png)
+![alt text](./myImage.png)
 
 
 ## How to Build and Run
