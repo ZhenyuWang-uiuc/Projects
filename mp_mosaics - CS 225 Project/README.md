@@ -4,7 +4,7 @@ This project mainly relies on K-d Tree and will divide the PNG file into several
 
 ### Example output
 
-![alt text](./outout1.png)
+![alt text](./output1.png)
 
 
 ## How to Build and Run
@@ -24,7 +24,7 @@ $ make
 ```
 ## To run the program, you can type:
 ```
-/mosaics
+./mosaics background_image.png tile_directory/ [number of tiles] [pixels per tile] [output_image.png]
 ```
 
 
